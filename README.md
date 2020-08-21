@@ -7,11 +7,12 @@
       width="100"
     />
   </a>
-  <h1 align="center"> Welcome </h1>
+  <h1 align="center"> The Chess Centre </h1>
 </p>
 <p align="center">
-  <h2 align="center"> The Chess Centre </h2>
+  <h2 align="center"> Welcome </h2>
 </p>
+
 ### Our dedicated locations for help and guidance on contributing to this non-profit organisation 
 
 This is the source for all key documents which we hope helps to welcome members to contribute to our community.
