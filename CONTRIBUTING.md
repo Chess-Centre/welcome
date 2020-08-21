@@ -11,7 +11,7 @@ The Chess Centre project has a
 [Code of Conduct](https://github.com/Chess-Centre/welcome/blob/master/CODE_OF_CONDUCT.md)
 to which all contributors must adhere.
 
-See [details on our policy on Code of Conduct](./doc/guides/contributing/code-of-conduct.md).
+See [details on our policy on Code of Conduct](./doc/guides/code-of-conduct.md).
 
 ## [Issues](./doc/guides/contributing/issues.md)
 
