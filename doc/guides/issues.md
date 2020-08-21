@@ -30,4 +30,4 @@ we encourage you to direct all your questions and requests to help to the [Chess
 In the vast majority of cases, issues are resolved by opening a Pull Request.
 The process for opening and reviewing a Pull Request. But raising an issue in advance against the project is always advised.
 
-[Chess Centre help repository]: https://github.com/Chess-Centre/welcome/issues
+[Chess Centre help repository]: https://github.com/chess-centre/welcome/issues
