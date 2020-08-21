@@ -15,9 +15,9 @@ See [details on our policy on Code of Conduct](./doc/guides/code-of-conduct.md).
 
 ## [Issues](./doc/guides/contributing/issues.md)
 
-* [How to Contribute in Issues](./doc/guides/contributing/issues.md#how-to-contribute-in-issues)
-* [Asking for General Help](./doc/guides/contributing/issues.md#asking-for-general-help)
-* [Resolving a Bug Report](./doc/guides/contributing/issues.md#resolving-a-bug-report)
+* [How to Contribute in Issues](./doc/guides/issues.md#how-to-contribute-in-issues)
+* [Asking for General Help](./doc/guides/issues.md#asking-for-general-help)
+* [Resolving a Bug Report](./doc/guides/issues.md#resolving-a-bug-report)
 
 <a id="developers-certificate-of-origin"></a>
 ## Developer's Certificate of Origin 1.1
