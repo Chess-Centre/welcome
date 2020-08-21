@@ -11,10 +11,9 @@
 </p>
 <p align="center">
   <h2 align="center"> Welcome </h2>
+  <h3 align="center"> Our dedicated locations for help and guidance on contributing to this non-profit organisation </h3>
 </p>
-
-### Our dedicated locations for help and guidance on contributing to this non-profit organisation 
-
+<br />
 This is the source for all key documents which we hope helps to welcome members to contribute to our community.
 
 <!--lint disable no-literal-urls-->
