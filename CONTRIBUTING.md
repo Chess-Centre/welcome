@@ -1,13 +1,13 @@
-# Contributing to The Chess Centre Organisation
+# Contributing to the Chess Centre organisation
 
-- [Contributing to The Chess Centre Organisation](#contributing-to-the-chess-centre-organisation)
+- [Contributing to the Chess Centre organisation](#contributing-to-the-chess-centre-organisation)
   - [Code of Conduct](#code-of-conduct)
   - [Issues](#issues)
   - [Developer's Certificate of Origin 1.1](#developers-certificate-of-origin-11)
 
 ## [Code of Conduct](./doc/guides/contributing/code-of-conduct.md)
 
-The Node.js project has a
+The Chess Centre project has a
 [Code of Conduct](https://github.com/Chess-Centre/welcome/blob/master/CODE_OF_CONDUCT.md)
 to which all contributors must adhere.
 
@@ -17,9 +17,6 @@ See [details on our policy on Code of Conduct](./doc/guides/contributing/code-of
 
 * [How to Contribute in Issues](./doc/guides/contributing/issues.md#how-to-contribute-in-issues)
 * [Asking for General Help](./doc/guides/contributing/issues.md#asking-for-general-help)
-* [Discussing non-technical topics](./doc/guides/contributing/issues.md#discussing-non-technical-topics)
-* [Submitting a Bug Report](./doc/guides/contributing/issues.md#submitting-a-bug-report)
-* [Triaging a Bug Report](./doc/guides/contributing/issues.md#triaging-a-bug-report)
 * [Resolving a Bug Report](./doc/guides/contributing/issues.md#resolving-a-bug-report)
 
 <a id="developers-certificate-of-origin"></a>
