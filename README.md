@@ -14,7 +14,6 @@
   <h3 align="center"> Our dedicated locations for help and guidance on contributing to this non-profit organisation </h3>
 </p>
 <br />
-This is the source for all key documents which we hope helps to welcome members to contribute to our community.
 
 <!--lint disable no-literal-urls-->
 <p align="center">
