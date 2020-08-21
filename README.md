@@ -4,7 +4,7 @@
     <img
       alt="The Chess Centre"
       src="https://github.com/Chess-Centre/welcome/blob/master/img/bcc-dark-logo.png"
-      width="400"
+      width="100"
     />
   </a>
 </p>
@@ -19,7 +19,7 @@ This is the source for all key documents which we hope helps to welcome members 
     <img
       alt="The Chess Centre Archiecture"
       src="https://github.com/Chess-Centre/welcome/blob/master/img/bcc-architecture.png"
-      width="400"
+      width="600"
     />
   </a>
 </p>
