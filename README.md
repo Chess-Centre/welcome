@@ -13,6 +13,13 @@
   <h2 align="center"> Welcome </h2>
   <h3 align="center"> Our dedicated locations for help and guidance on contributing to this non-profit organisation </h3>
 </p>
+<p align="center">
+    <img
+      alt="Welcome"
+      src="https://github.com/Chess-Centre/welcome/blob/master/img/welcome-banner.png"
+      width="400"
+    />
+</p>
 <br />
 
 <!--lint disable no-literal-urls-->
