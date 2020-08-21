@@ -11,27 +11,16 @@
 </p>
 <p align="center">
   <h2 align="center"> Welcome </h2>
-  <h3 align="center"> Our dedicated locations for help and guidance on contributing to this non-profit organisation </h3>
+  <h3 align="center"> Our dedicated location for help & guidance on contributing to this non-profit organisation </h3>
 </p>
 <p align="center">
     <img
       alt="Welcome"
       src="https://github.com/Chess-Centre/welcome/blob/master/img/welcome-banner.png"
-      width="400"
+      width="600"
     />
 </p>
 <br />
-
-<!--lint disable no-literal-urls-->
-<p align="center">
-  <a href="https://bradford.chesscentre.online/#!/">
-    <img
-      alt="The Chess Centre Archiecture"
-      src="https://github.com/Chess-Centre/welcome/blob/master/img/bcc-architecture.png"
-      width="600"
-    />
-  </a>
-</p>
 
 ### Collaborators
 * [matt-d-webb](https://github.com/matt-d-webb) -
